@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Norwester";
+    src: url('../public/fonts/norwester/Norwester.otf');
+  }
+  
+  @font-face {
+    font-family: "Glacial Indifference";
+    src: url('../public/fonts/glacial-indifference/GlacialIndifference-Regular.otf');
+  }
